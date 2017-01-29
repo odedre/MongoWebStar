@@ -1,5 +1,6 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
-import {Gallery} from './components'
+import {Hello} from './components'
 
-ReactDOM.render(<Gallery/>, document.getElementById('qbllr-root'));
+
+ReactDOM.render(<Hello/>, document.getElementById('root'));

@@ -1,2 +1,4 @@
-export {Card} from './card'
-export {Gallery} from './gallery'
+import React from 'react'
+export let Hello = function (props) {
+    return <div>Hello React!</div>
+}
